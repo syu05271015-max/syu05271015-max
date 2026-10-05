@@ -2,6 +2,8 @@
 
 [![My hobbies](https://skillicons.dev/icons?i=git,github,aws,html,linux,windows,unity,vscode,obsidian,vercel)](https://skillicons.dev)
 
+##skils
+[![My hobbies](https://skillicons.dev/icons?i=git,github,aws,html,unity,vscode,obsidian,vercel)](https://skillicons.dev)
 
 <!--
 **syu05271015-max/syu05271015-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
