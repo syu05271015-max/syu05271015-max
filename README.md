@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hobbies
 
 [![My hobbies](https://skillicons.dev/icons?i=git,github,aws,html,linux,windows,unity,vscode,obsidian,vercel)](https://skillicons.dev)
 
